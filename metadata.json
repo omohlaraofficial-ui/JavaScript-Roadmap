@@ -1,0 +1,6 @@
+{
+  "name": "ClearScript — Visual JavaScript Roadmap",
+  "description": "An interactive, visual-first JavaScript learning roadmap from beginner to intermediate with live diagrams, fill-in-the-gap drills, code debugging, quizzes, XP tracking, and HTML/CSS/JS stage projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
